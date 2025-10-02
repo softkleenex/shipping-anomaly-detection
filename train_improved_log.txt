@@ -1,0 +1,13 @@
+Application terminated with error: PyInit__catboost+10381805 (0x7FFB75776012)
+PyInit__catboost+10383175 (0x7FFB7577656C)
+PyInit__catboost+42715737 (0x7FFB7764C07E)
+PyInit__catboost+42709866 (0x7FFB7764A98F)
+PyInit__catboost+42717614 (0x7FFB7764C7D3)
+PyInit__catboost+42699348 (0x7FFB77648079)
+PyInit__catboost+42700888 (0x7FFB7764867D)
+PyInit__catboost+5768292 (0x7FFB7530FA89)
+PyInit__catboost+47362374 (0x7FFB77ABA76B)
+BaseThreadInitThunk+23 (0x7FFC53B5E8D7)
+RtlUserThreadStart+44 (0x7FFC53E68D9C)
+
+(class NCudaLib::TOutOfMemoryError) catboost/cuda/cuda_lib/memory_pool/stack_like_memory_pool.h:303: Error: Out of memory. Requested 11794.78125 MB; Free 6730.738671 MB
